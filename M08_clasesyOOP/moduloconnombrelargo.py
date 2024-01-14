@@ -1,0 +1,3 @@
+#moduloconnombrelargo.py
+
+hola = "Hola"
